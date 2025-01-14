@@ -1,7 +1,7 @@
 # IuranWargaApp
 
 ## Pendahuluan
-Ini adalah project Laravel yang dikembangkan untuk mata kuliah Pemrograman Web. Project ini adalah aplikasi manajemen iuran warga.
+Ini adalah project Laravel yang dikembangkan untuk mata kuliah Pemrograman Web. Project ini adalah aplikasi manajemen iuran warga. Berikut adalah Guide Book Web kami [(click here)](https://drive.google.com/file/d/13Ock9NAr_6zUUztKlLsNb10K5yyxQFyd/view?usp=drive_link)
 
 ## Prasyarat
 - [XAMPP](https://www.apachefriends.org/index.html) (untuk Apache dan MySQL)
